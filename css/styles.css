@@ -207,8 +207,7 @@ main,
         grid-template-columns: 1fr 2fr;
     }
 
-    .container_movie,
-    .container_fol_movie {
+    .container_movie {
         grid-template-columns: 1fr;
     }
 
@@ -218,8 +217,9 @@ main,
 }
 
 @font-face {
-    font-family: "Bebas";
+    font-family: 'Bebas';
     src: url(bebas.ttf);
+    font-style: 400;
 }
 
 @font-face {

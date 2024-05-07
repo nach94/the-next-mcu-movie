@@ -86,7 +86,6 @@ main,
 }
 
 .container_movie__title {
-    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
 }
 
@@ -143,7 +142,8 @@ main,
 .container_fol_movie__over,
 .container_fol_movie__title,
 .container_movie__over,
-.container_fol_movie__rel_date {
+.container_fol_movie__rel_date,
+.container_movie__title {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -163,7 +163,6 @@ main,
     color: var(--text-100);
 }
 
-.container_movie__title,
 .container_fol_movie__title {
     font-weight: 400;
 }

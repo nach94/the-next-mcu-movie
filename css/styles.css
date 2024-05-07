@@ -71,6 +71,8 @@ main {
     max-width: 650px;
     margin: auto;
     min-height: 100dvh;
+    padding-top: 3em;
+    padding-bottom: 3em;
 }
 
 main,

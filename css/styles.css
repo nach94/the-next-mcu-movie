@@ -211,6 +211,10 @@ main,
     .container_fol_movie {
         grid-template-columns: 1fr;
     }
+
+    main{
+        padding: 3em 2em;
+    }
 }
 
 @font-face {

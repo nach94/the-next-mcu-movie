@@ -86,7 +86,7 @@ main,
 }
 
 .container_movie__title {
-    font-family: 'Bebas', sans-serif;
+    font-family: 'Bebas', 'Roboto Condensed', sans-serif;
 }
 
 .container_page_title,

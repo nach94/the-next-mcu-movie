@@ -70,6 +70,7 @@ main {
     place-content: center;
     padding-top: 1em;
     padding-bottom: 1em;
+    min-height: calc(100vh - 65.88px - 53.16px);
 }
 
 .container_page_footer div,
